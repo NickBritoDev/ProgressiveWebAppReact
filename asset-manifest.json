@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ProgressiveWebAppReact/static/css/main.f855e6bc.css",
+    "main.js": "/ProgressiveWebAppReact/static/js/main.0c470add.js",
+    "static/js/787.6520ff22.chunk.js": "/ProgressiveWebAppReact/static/js/787.6520ff22.chunk.js",
+    "service-worker.js": "/ProgressiveWebAppReact/service-worker.js",
+    "static/media/logo.svg": "/ProgressiveWebAppReact/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/ProgressiveWebAppReact/index.html",
+    "main.f855e6bc.css.map": "/ProgressiveWebAppReact/static/css/main.f855e6bc.css.map",
+    "main.0c470add.js.map": "/ProgressiveWebAppReact/static/js/main.0c470add.js.map",
+    "787.6520ff22.chunk.js.map": "/ProgressiveWebAppReact/static/js/787.6520ff22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c470add.js"
+  ]
+}
