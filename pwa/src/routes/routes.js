@@ -12,7 +12,7 @@ import Signup from '../pages/public/signup/Signup'
 export default function Routes() {
     const routing = useRoutes([
         {
-            path: 'pwa/admin',
+            path: 'ProgressiveWebAppReact/admin',
             element: <Admin />,
             children: [
                 {
@@ -22,7 +22,7 @@ export default function Routes() {
             ]
         },
         {
-            path: '/pwa',
+            path: '/ProgressiveWebAppReact',
             element: <Public />,
             children: [
                 { path: '', element: <Signin /> },
